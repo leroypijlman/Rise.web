@@ -1,4 +1,4 @@
-# Homepage of Rise
+git # Homepage of Rise
 
 `git clone https://github.com/leroypijlman/Rise.web.git`
 `cd Rise.web`
