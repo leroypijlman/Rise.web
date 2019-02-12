@@ -1,5 +1,6 @@
-git # Homepage of Rise
+# Homepage of Rise
 
-`git clone https://github.com/leroypijlman/Rise.web.git`
-`cd Rise.web`
-`python -m http.server 8080`
+Steps:  
+* `git clone https://github.com/leroypijlman/Rise.web.git`. 
+* `cd Rise.web`  
+* `python -m http.server 8080`
